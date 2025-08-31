@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=18&duration=3000&pause=1000&color=38C2FF&width=600&lines=AI+%7C+Data+Science+%7C+Cybersecurity;Building+ML+Models+%26+Cool+Projects;Exploring+AI-Powered+Future)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/6b93e803d32f74ebbca912a14179d0f2/da109123405d851c-9d/s1280x1920/0552354a9c026cf54a3a53a4c4352084e125a334.gif" width="500" alt="Anime Theme"/>
+  <img src="https://media1.tenor.com/m/7wAPfrkMDsgAAAAd/moon-knight-marvel-rivals.gif" width="500" alt="Anime Theme"/>
 </div>
 
 
