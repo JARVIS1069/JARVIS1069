@@ -1,5 +1,5 @@
-# 💫 About Me:
-💡 I’m Arpeet Mahajan — a passionate learner in Data Science, Cybersecurity, and Artificial Intelligence. I love building impactful projects in ML, AI-driven security, and data visualization while exploring innovative ways to solve real-world problems.
+# 💫 Arpeet Mahajan
+I am a passionate learner in Data Science, Cybersecurity, and Artificial Intelligence. I love building impactful projects in ML, AI-driven security, and data visualization while exploring innovative ways to solve real-world problems.
 
 
 ## 🌐 Socials:
