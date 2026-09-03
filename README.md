@@ -1,37 +1,71 @@
-<!-- Anime Theme GitHub Profile README -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=18&duration=3000&pause=1000&color=38C2FF&width=600&lines=AI+%7C+Data+Science+%7C+Cybersecurity;Building+ML+Models+%26+Cool+Projects;Exploring+AI-Powered+Future)](https://git.io/typing-svg)
+<p align="center">
+  <img src="<img width="736" height="1308" alt="download (1)" src="https://github.com/user-attachments/assets/e4adbab0-7bdf-4536-8799-5195d09f9431" />
+" alt="Arpeet Mahajan" width="200" style="border-radius: 50%;">
+</p>
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/7wAPfrkMDsgAAAAd/moon-knight-marvel-rivals.gif" width="500" alt="Anime Theme"/>
-</div>
+<h1 align="center">Hi there! 👋 I'm Arpeet Mahajan</h1>
+<p align="center"><em>AI/ML Engineer • Data Scientist</em></p>
 
+## 🛠️ Tech Stack
 
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | `Java` `Python` `HTML` `CSS` `SQL` |
+| **AI / ML / Deep Learning** | `PyTorch` `TensorFlow` `Keras` `Scikit-learn` `NumPy` `Pandas` `Matplotlib` |
+| **ML Concepts** | `Machine Learning` `Deep Learning` `AI Agents` `LLMs` `NLP` `Computer Vision` |
+| **Data Engineering & Analytics** | `MySQL` `Apache Spark` `Power BI` `Tableau` `Streamlit` |
+| **APIs & Web Services** | `REST API` `JSON API` `SOAP API` `Postman` `FastAPI` `Flask` |
+| **DevOps & Tools** | `Git` `GitHub` `Docker` `Linux` `CI/CD` `System Design` `VS Code` `Jupyter` |
 
+---
 
-# 💫 Arpeet Mahajan
-I am a passionate learner in Data Science, Cybersecurity, and Artificial Intelligence. I love building impactful projects in ML, AI-driven security, and data visualization while exploring innovative ways to solve real-world problems.
+## 👨‍💻 About Me
 
+| | |
+|---|---|
+| 🔭 **Current Focus** | Building AI-powered applications and exploring how intelligent systems solve real-world problems |
+| 👯 **Collaboration** | Open to collaborating on AI, ML, Open Source, and Data Science projects |
+| 🤝 **Learning From** | AI Agents, LLMs, RAG Systems, MLOps, and Advanced AI Architectures |
+| 🌱 **Deepening Knowledge** | Deep Learning, Agentic AI, LLM Fine-tuning, System Design, Scalable ML Systems |
+| 💬 **Ask Me About** | Python, ML/DL, Data Analysis, Model Deployment, AI Agents, GenAI |
+| ⚡ **Fun Fact** | I enjoy learning new technologies, building projects, exploring finance, and turning ideas into reality 🚀 |
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arpeet.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arpeet-mahajan-3065aa230/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@rpeet.io) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arpeet1104@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+## 🎯 Current Interests & Goals
 
-![snake animation](https://github.com/JARVIS1069/JARVIS1069/blob/output/snake.svg)
+- 🤖 **AI Agents & Multi-Agent Systems** — Building autonomous, goal-driven agents
+- 🧠 **LLMs & RAG** — Fine-tuning, prompt engineering, retrieval-augmented generation
+- 🏗️ **MLOps & Model Deployment** — Taking models from notebook to production
+- 📊 **Scalable Data Pipelines** — Spark, streaming, real-time analytics
+- 🎨 **Generative AI Applications** — Creative and practical GenAI use cases
 
+---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arpeet&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpeet&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JARVIS1069&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JARVIS1069&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JARVIS1069&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📫 Let's Connect!
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JARVIS1069&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <strong>Always happy to chat about AI, ML, Data Science, or cool projects!</strong>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://x.com/Arpeet63225216">𝕏 Twitter</a> •
+  <a href="https://www.linkedin.com/in/arpeet-mahajan-3065aa230/">💼 LinkedIn</a> •
+  <a href="https://www.instagram.com/arpeet.io/">📸 Instagram</a> •
+  <a href="mailto:arpeet1104@gmail.com">✉️ Email</a>
+</p>
+
+---
+
+<p align="center"><em>⭐ Feel free to check out my repositories and drop a star if you find something interesting!</em></p>
+
+<p align="center"><sub>Last updated: September 2026</sub></p>
