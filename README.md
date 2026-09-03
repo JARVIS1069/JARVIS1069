@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="<img width="736" height="1308" alt="download (1)" src="https://github.com/user-attachments/assets/e4adbab0-7bdf-4536-8799-5195d09f9431" />
-" alt="Arpeet Mahajan" width="200" style="border-radius: 50%;">
+  <img src="./download (1).jpg" alt="Arpeet Mahajan" width="200">
+</p>
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Arpeet Mahajan</h1>
