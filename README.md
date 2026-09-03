@@ -45,11 +45,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arpeet&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpeet&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JARVIS1069&theme=github_dark" 
+    alt="GitHub Stats"
+    height="180"
+  />
+  &nbsp;&nbsp;
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JARVIS1069&theme=github_dark" 
+    alt="Top Languages"
+    height="180"
+  />
 </p>
 
----
 
 ## 📫 Let's Connect!
 
