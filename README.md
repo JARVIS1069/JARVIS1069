@@ -15,7 +15,7 @@
 | **ML Concepts** | `Machine Learning` `Deep Learning` `AI Agents` `LLMs` `NLP` `Computer Vision` |
 | **Data Engineering & Analytics** | `MySQL` `Apache Spark` `Power BI` `Tableau` `Streamlit` |
 | **APIs & Web Services** | `REST API` `JSON API` `SOAP API` `Postman` `FastAPI` `Flask` |
-| **DevOps & Tools** | `Git` `GitHub` `Docker` `Linux` `CI/CD` `System Design` `VS Code` `Jupyter` |
+| **DevOps & Tools** | `Git` `GitHub` `Docker` `Linux`  `System Design` `VS Code` `Jupyter` |
 
 ---
 
