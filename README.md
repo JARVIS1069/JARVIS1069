@@ -10,7 +10,7 @@
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | `Java` `Python` `HTML` `CSS` `SQL` |
+| **Languages** | `Java` `Python` `HTML` `CSS` `MYSQL` |
 | **AI / ML / Deep Learning** | `PyTorch` `TensorFlow` `Keras` `Scikit-learn` `NumPy` `Pandas` `Matplotlib` |
 | **ML Concepts** | `Machine Learning` `Deep Learning` `AI Agents` `LLMs` `NLP` `Computer Vision` |
 | **Data Engineering & Analytics** | `MySQL` `Apache Spark` `Power BI` `Tableau` `Streamlit` |
